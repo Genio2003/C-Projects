@@ -29,7 +29,7 @@ int main()
 			i++;
 		}
 	}
-		if (sB==a)
+		if (sB==sA)
 		{
 			cout<<"I Numeri Sono Amici!";
 		}
