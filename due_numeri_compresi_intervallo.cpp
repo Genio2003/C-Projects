@@ -1,4 +1,4 @@
-//Dato un numero intero verificare se è compreso nell'intervallo!
+//Dato un numero intero verificare se Ã¨ compreso nell'intervallo!
 #include <iostream>
 using namespace std;
 int main()
@@ -18,7 +18,10 @@ int main()
 	{
 		if (n1>n)
 		{
+                     if (n1<m)
 			cout<<"Il Numero e'' Compreso nell'Intervallo! ;-)";
+                     else
+                        cout<<"Il Numero NON e compreso nell'i.....";
 		}
 		else
 		{
