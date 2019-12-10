@@ -10,9 +10,9 @@ int main()
 	cin>>n;
 	cout<<"Inserire il Numero Da Verificare: ";
 	cin>>n1;
-	if (n1>m)
+	if (n>m)
 	{
-		cout<<"Il Numero da Verificare Deve Essere Maggiore del Numero Maggiore dell'Intervallo! :-(";
+		cout<<"Il Numero minore dell' intervallo inserito e' Maggiore del Numero Maggiore dell'Intervallo! :-(";
 	}
 	else 
 	{
